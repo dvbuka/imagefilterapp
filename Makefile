@@ -1,5 +1,5 @@
 CC = clang++
-SOURCEDIR = app
+SOURCEDIR = src
 BUILDDIR = build
 
 # Includes util files AND OpenCL framework
